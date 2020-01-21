@@ -1,1 +1,1 @@
-
+<script type='text/javascript' id='susi-bot-script' data-userid='3c81b3fef9ec84c4d9a4dee9aebb8e1e' data-group='Knowledge' data-language='en' data-skill='Fun_Facts' src='https://susi.ai/susi-chatbot.js'></script>
